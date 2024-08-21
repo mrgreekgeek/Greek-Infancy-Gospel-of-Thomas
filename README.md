@@ -4,5 +4,8 @@ This text is commonly known as the _[Infancy Gospel of Thomas](https://en.wikipe
 # Disclaimer
 Obviously, since this work is part of the "Apocrypha" it should **not** be considered inspired or authoritative. MrGreekGeek does not _recommend_ this work for any purpose other than some easy Greek reading for Greek students who want to read something that they're not already very familiar with. Treat this as imaginative fiction, and go to the Bible for your truth and doctrine and genuine history about Jesus.
 
+# Print Edition
+I don't own a copy, but _[The Infancy Gospel of Thomas: An Intermediate Ancient Greek Reader](https://www.amazon.com/dp/1494765683/)_ edited by C. T. Hadavas looks like a really nice edition of this text and is very reasonably priced. 
+
 # License
 CC0-1.0 license (public domain)
