@@ -1,12 +1,8 @@
 # About 
-This is a public domain digital transcription of the Greek text of Tischendorf's "EVANGELIUM THOMAE GRAECE A." published in the book _Evangelia Apocrypha_ in 1853, available on [Archive.org](https://archive.org/details/bub_gb_XfU2AAAAMAAJ/page/n227/).
-The OCR wasn't very good, so it's currently in the process of being cleaned up. 
+This text is commonly known as the _[Infancy Gospel of Thomas](https://en.wikipedia.org/wiki/Infancy_Gospel_of_Thomas)_ in English. This repository is a public domain digital transcription of the Greek text (from Tischendorf's "EVANGELIUM THOMAE GRAECE A." published in the book _Evangelia Apocrypha_ in 1853, available on [Archive.org](https://archive.org/details/bub_gb_XfU2AAAAMAAJ/page/n227/)). Since I couldn't find any free high quality digital versions of the Greek text, I decided to create one! The OCR quality from the [Archive.org scan](https://archive.org/details/bub_gb_XfU2AAAAMAAJ/page/n227/) was decent for the Greek letters, but the diacritics were really messed up, so I manually corrected it to match the printed text and converted it into a format that is easy to read or process further. 
 
-# Cleanup Progress
-19/19 chapters are finished with basic typo/diacritics corrections.
-
-# Canonicity
-Obviously, since this work is part of the "Apocrypha" it should **not** be considered inspired or authoritative. MrGreekGeek does not _recommend_ this work for any purpose other than some easy Greek reading for Greek students who want something to read that they're not already very familiar with. Treat this as imaginative fiction, and go to the Bible for your truth and doctrine and genuine history about Jesus.
+# Disclaimer
+Obviously, since this work is part of the "Apocrypha" it should **not** be considered inspired or authoritative. MrGreekGeek does not _recommend_ this work for any purpose other than some easy Greek reading for Greek students who want to read something that they're not already very familiar with. Treat this as imaginative fiction, and go to the Bible for your truth and doctrine and genuine history about Jesus.
 
 # License
 CC0-1.0 license (public domain)
